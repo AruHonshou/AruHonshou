@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:213448,45:547792,100:94B4C1&height=230&section=header&text=Kendall%20Andres%20Valverde%20Diaz&fontColor=EAE0CF&fontSize=34&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI-Augmented%20Development%20%7C%20QA%20Automation&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:213448,45:547792,100:94B4C1&height=230&section=header&text=Kendall%20Andr%C3%A9s%20Valverde%20D%C3%ADaz&fontColor=EAE0CF&fontSize=34&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI-Augmented%20Development%20%7C%20QA%20Automation&descAlignY=55&descSize=16)
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=94B4C1&center=true&vCenter=true&width=780&lines=Fullstack+TypeScript+Engineer;AI+Agents+%2B+RAG+%2B+OpenAI+API;Playwright+QA+Automation+%2B+CI%2FCD;Local-first+tools+with+product+focus" alt="Typing SVG" />
 
@@ -19,11 +19,11 @@
 
 ## Perfil
 
-Soy Software Engineer especializado en AI-Augmented Development, con mas de 3 anos de experiencia creando aplicaciones fullstack, automatizacion QA y plataformas con IA generativa.
+Soy Software Engineer especializado en AI-Augmented Development, con más de 3 años de experiencia creando aplicaciones fullstack, automatización QA y plataformas con IA generativa.
 
-He trabajado con React, TypeScript y Node.js en proyectos para clientes de Costa Rica y Estados Unidos. En Novacomp, para Davivienda Bank Costa Rica, lidere automatizacion QA con Playwright + TypeScript, integrando CI/CD y reduciendo el ciclo de pruebas alrededor de un 40%.
+He trabajado con React, TypeScript y Node.js en proyectos para clientes de Costa Rica y Estados Unidos. En Novacomp, para Davivienda Bank Costa Rica, lideré automatización QA con Playwright + TypeScript, integrando CI/CD y reduciendo el ciclo de pruebas alrededor de un 40%.
 
-Actualmente construyo proyectos open source enfocados en agentes inteligentes, RAG, automatizacion de QA y herramientas locales-first.
+Actualmente construyo proyectos open source enfocados en agentes inteligentes, RAG, automatización de QA y herramientas locales-first.
 
 <br />
 
@@ -58,9 +58,9 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 
 - Agentes con IA generativa usando OpenAI API, RAG, embeddings y function calling.
 - Plataformas fullstack con React, TypeScript, Node.js, Express/NestJS y bases de datos SQL.
-- Automatizacion QA con Playwright, Postman, Jest, Vitest y pipelines CI/CD.
+- Automatización QA con Playwright, Postman, Jest, Vitest y pipelines CI/CD.
 - Infraestructura reproducible con Docker, GitHub Actions, Terraform y AWS.
-- Desarrollo asistido por IA con enfoque pragmatico, seguro y orientado a producto.
+- Desarrollo asistido por IA con enfoque pragmático, seguro y orientado a producto.
 
 ## Proyectos Destacados
 
@@ -77,7 +77,7 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
       </p>
       <ul>
         <li>Genera casos de prueba manuales o automatizados desde lenguaje natural.</li>
-        <li>Crea planes declarativos de automatizacion UI/API sin ejecutar codigo arbitrario generado por IA.</li>
+        <li>Crea planes declarativos de automatización UI/API sin ejecutar código arbitrario generado por IA.</li>
         <li>Ejecuta pruebas con evidencia por paso y reportes HTML, JSON y PDF.</li>
       </ul>
     </td>
@@ -92,35 +92,35 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
       </p>
       <ul>
         <li>Procesa PDFs/TXT, divide documentos en chunks y recupera contexto por similitud coseno.</li>
-        <li>Incluye RAGAgent con skills atomicas: busqueda, resumen, respuesta y extraccion de keywords.</li>
-        <li>Implementa JWT, streaming NDJSON, CI/CD y demo estatica en GitHub Pages.</li>
+        <li>Incluye RAGAgent con skills atómicas: búsqueda, resumen, respuesta y extracción de keywords.</li>
+        <li>Implementa JWT, streaming NDJSON, CI/CD y demo estática en GitHub Pages.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AruHonshou/OpenAIBOTFrontend">OpenAI Chatbot Fullstack</a></h3>
-      <p>Aplicacion fullstack con frontend React y backend NestJS para interactuar con modelos de OpenAI.</p>
+      <p>Aplicación fullstack con frontend React y backend NestJS para interactuar con modelos de OpenAI.</p>
       <p>
         <a href="https://github.com/AruHonshou/OpenAIBOTFrontend">Frontend</a> |
         <a href="https://github.com/AruHonshou/OpenAIBOTBackend">Backend</a>
       </p>
       <ul>
-        <li>Chat conversacional con integracion directa a OpenAI API.</li>
-        <li>Comparativa de modelos y soporte para vision/image-to-text.</li>
-        <li>Separacion frontend/backend con arquitectura REST.</li>
+        <li>Chat conversacional con integración directa a OpenAI API.</li>
+        <li>Comparativa de modelos y soporte para visión/image-to-text.</li>
+        <li>Separación frontend/backend con arquitectura REST.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AruHonshou/devops-terraform-project">Terraform + AWS</a></h3>
-      <p>Proyecto DevOps con infraestructura como codigo, despliegue automatizado y app containerizada.</p>
+      <p>Proyecto DevOps con infraestructura como código, despliegue automatizado y app containerizada.</p>
       <p>
         <img src="https://img.shields.io/badge/Terraform-213448?style=flat-square&logo=terraform&logoColor=EAE0CF" />
         <img src="https://img.shields.io/badge/AWS-547792?style=flat-square&logo=amazonaws&logoColor=EAE0CF" />
         <img src="https://img.shields.io/badge/GitHub%20Actions-94B4C1?style=flat-square&logo=githubactions&logoColor=213448" />
       </p>
       <ul>
-        <li>Provisiona VPC, EC2, subnets, Security Groups, Elastic IP e IAM con minimos privilegios.</li>
+        <li>Provisiona VPC, EC2, subnets, Security Groups, Elastic IP e IAM con mínimos privilegios.</li>
         <li>Docker multi-stage para una Flask API servida con Gunicorn.</li>
         <li>Pipelines CI/CD para test, build, push, deploy y Terraform plan/apply.</li>
       </ul>
@@ -137,9 +137,9 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
         <img src="https://img.shields.io/badge/MySQL-EAE0CF?style=flat-square&logo=mysql&logoColor=213448" />
       </p>
       <ul>
-        <li>Reemplazo operacion 100% en papel.</li>
+        <li>Reemplazo operación 100% en papel.</li>
         <li>Redujo el tiempo administrativo alrededor de un 80%.</li>
-        <li>Incluye gestion de datos, flujos internos y experiencia responsive.</li>
+        <li>Incluye gestión de datos, flujos internos y experiencia responsive.</li>
       </ul>
     </td>
   </tr>
@@ -192,14 +192,14 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>QA Engineer / Lider de QA</h3>
+      <h3>QA Engineer / Líder de QA</h3>
       <p><strong>Novacomp, cliente Davivienda Bank Costa Rica</strong></p>
-      <p>Automatizacion QA con Playwright + TypeScript, CI/CD con GitHub Actions, validacion de APIs REST y coordinacion de pruebas sobre flujos bancarios criticos.</p>
+      <p>Automatización QA con Playwright + TypeScript, CI/CD con GitHub Actions, validación de APIs REST y coordinación de pruebas sobre flujos bancarios críticos.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Fullstack Developer</h3>
       <p><strong>Freelance</strong></p>
-      <p>Aplicaciones React + TypeScript, APIs REST/GraphQL, integracion con OpenAI/Claude, bases de datos SQL y soluciones para clientes en Costa Rica y Estados Unidos.</p>
+      <p>Aplicaciones React + TypeScript, APIs REST/GraphQL, integración con OpenAI/Claude, bases de datos SQL y soluciones para clientes en Costa Rica y Estados Unidos.</p>
     </td>
   </tr>
 </table>
@@ -220,6 +220,10 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 ## Contacto
 
 <div align="center">
+
+<img src="./assets/profile-contact.png" width="100%" alt="Anime coding workspace" />
+
+<br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aruhonshou.github.io-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-AruHonshou-547792?style=for-the-badge&logo=github&logoColor=EAE0CF)](https://github.com/AruHonshou)
