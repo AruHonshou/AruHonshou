@@ -6,7 +6,8 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aruhonshou.github.io-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Aru%20Interactive-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/portfolio.html)
+[![Aru Guide](https://img.shields.io/badge/Aru%20Guide-Deep%20Profile-547792?style=for-the-badge&logo=sparkfun&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/guia.html)
 [![GitHub](https://img.shields.io/badge/GitHub-AruHonshou-547792?style=for-the-badge&logo=github&logoColor=EAE0CF)](https://github.com/AruHonshou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kendall%20Valverde-94B4C1?style=for-the-badge&logo=linkedin&logoColor=213448)](https://www.linkedin.com/in/kendall-valverde-diaz-aru/)
 [![Email](https://img.shields.io/badge/Email-kendallavd%40gmail.com-EAE0CF?style=for-the-badge&logo=gmail&logoColor=213448)](mailto:kendallavd@gmail.com)
@@ -19,11 +20,11 @@
 
 ## Perfil
 
-Soy Software Engineer especializado en AI-Augmented Development, con más de 3 años de experiencia creando aplicaciones fullstack, automatización QA y plataformas con IA generativa.
+Soy Kendall Valverde Díaz, Software Engineer / Fullstack Engineer de Costa Rica, especializado en AI-Augmented Development, frontend moderno, backend y automatización de calidad.
 
 He trabajado con React, TypeScript y Node.js en proyectos para clientes de Costa Rica y Estados Unidos. En Novacomp, para Davivienda Bank Costa Rica, lideré automatización QA con Playwright + TypeScript, integrando CI/CD y reduciendo el ciclo de pruebas alrededor de un 40%.
 
-Actualmente construyo proyectos open source enfocados en agentes inteligentes, RAG, automatización de QA y herramientas locales-first.
+Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automatización QA y experiencias web interactivas. Mi portfolio actual es **Aru**, una experiencia bilingüe con una asistente anime/chibi que presenta mi perfil, proyectos, skills, experiencia y contacto.
 
 <br />
 
@@ -60,15 +61,33 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 - Plataformas fullstack con React, TypeScript, Node.js, Express/NestJS y bases de datos SQL.
 - Automatización QA con Playwright, Postman, Jest, Vitest y pipelines CI/CD.
 - Infraestructura reproducible con Docker, GitHub Actions, Terraform y AWS.
-- Desarrollo asistido por IA con enfoque pragmático, seguro y orientado a producto.
+- Experiencias web interactivas con React, Vite, CSS3, GitHub Pages y enfoque de producto.
+- Desarrollo asistido por IA con enfoque pragmático, seguro y orientado a flujos reales.
 
 ## Proyectos Destacados
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://aruhonshou.github.io/Aru/portfolio.html">Aru Assistant / Portfolio Interactivo</a></h3>
+      <p>Portfolio interactivo con Aru como personaje protagonista: una asistente virtual anime/chibi que guía mi perfil profesional, proyectos, skills, experiencia, certificaciones y contacto.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-213448?style=flat-square&logo=react&logoColor=EAE0CF" />
+        <img src="https://img.shields.io/badge/Vite-547792?style=flat-square&logo=vite&logoColor=EAE0CF" />
+        <img src="https://img.shields.io/badge/CSS3-94B4C1?style=flat-square&logo=css3&logoColor=213448" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-EAE0CF?style=flat-square&logo=github&logoColor=213448" />
+      </p>
+      <ul>
+        <li>Experiencia bilingüe ES/EN con navegación por secciones y guía local.</li>
+        <li>Personaje Aru con expresiones, movimiento, burbujas contextuales y estética PNGTuber.</li>
+        <li><a href="https://github.com/AruHonshou/Aru">Código fuente</a> | <a href="https://aruhonshou.github.io/Aru/guia.html">Aru lo explica mejor</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AruHonshou/QAPilot">QAPilot</a></h3>
-      <p>Plataforma local-first de QA con IA que convierte requerimientos funcionales en casos de prueba profesionales y automatizables.</p>
+      <h3><a href="https://github.com/AruHonshou/QAPilot/tree/kendall">QAPilot</a></h3>
+      <p>Agente QA local-first que convierte requerimientos en casos de prueba, ejecuta pruebas UI/API, analiza fallos con IA y genera reportes HTML, PDF y JSON.</p>
       <p>
         <img src="https://img.shields.io/badge/React-213448?style=flat-square&logo=react&logoColor=EAE0CF" />
         <img src="https://img.shields.io/badge/TypeScript-547792?style=flat-square&logo=typescript&logoColor=EAE0CF" />
@@ -77,8 +96,8 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
       </p>
       <ul>
         <li>Genera casos de prueba manuales o automatizados desde lenguaje natural.</li>
-        <li>Crea planes declarativos de automatización UI/API sin ejecutar código arbitrario generado por IA.</li>
-        <li>Ejecuta pruebas con evidencia por paso y reportes HTML, JSON y PDF.</li>
+        <li>Ejecuta pruebas con evidencia por paso y reportes exportables.</li>
+        <li>Usa SQLite, Docker, SSE y cifrado AES-256-GCM para datos sensibles.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -93,7 +112,7 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
       <ul>
         <li>Procesa PDFs/TXT, divide documentos en chunks y recupera contexto por similitud coseno.</li>
         <li>Incluye RAGAgent con skills atómicas: búsqueda, resumen, respuesta y extracción de keywords.</li>
-        <li>Implementa JWT, streaming NDJSON, CI/CD y demo estática en GitHub Pages.</li>
+        <li>Implementa JWT, streaming NDJSON, CI/CD y <a href="https://aruhonshou.github.io/Documente/#/dashboard">demo estática en GitHub Pages</a>.</li>
       </ul>
     </td>
   </tr>
@@ -158,6 +177,7 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 ![JavaScript](https://img.shields.io/badge/JavaScript-213448?style=for-the-badge&logo=javascript&logoColor=EAE0CF)
 ![Vite](https://img.shields.io/badge/Vite-213448?style=for-the-badge&logo=vite&logoColor=EAE0CF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-213448?style=for-the-badge&logo=tailwindcss&logoColor=EAE0CF)
+![Zustand](https://img.shields.io/badge/Zustand-213448?style=for-the-badge)
 
 ### Backend & APIs
 
@@ -166,12 +186,15 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 ![NestJS](https://img.shields.io/badge/NestJS-547792?style=for-the-badge&logo=nestjs&logoColor=EAE0CF)
 ![REST](https://img.shields.io/badge/REST%20APIs-547792?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-547792?style=for-the-badge&logo=graphql&logoColor=EAE0CF)
+![JWT](https://img.shields.io/badge/JWT-547792?style=for-the-badge&logo=jsonwebtokens&logoColor=EAE0CF)
 
 ### AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-94B4C1?style=for-the-badge&logo=openai&logoColor=213448)
+![Anthropic](https://img.shields.io/badge/Anthropic%20SDK-94B4C1?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-94B4C1?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-94B4C1?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function%20Calling-94B4C1?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-94B4C1?style=for-the-badge&logo=playwright&logoColor=213448)
 ![Postman](https://img.shields.io/badge/Postman-94B4C1?style=for-the-badge&logo=postman&logoColor=213448)
 
@@ -179,6 +202,7 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EAE0CF?style=for-the-badge&logo=postgresql&logoColor=213448)
 ![MySQL](https://img.shields.io/badge/MySQL-EAE0CF?style=for-the-badge&logo=mysql&logoColor=213448)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-EAE0CF?style=for-the-badge&logo=microsoftsqlserver&logoColor=213448)
 ![SQLite](https://img.shields.io/badge/SQLite-EAE0CF?style=for-the-badge&logo=sqlite&logoColor=213448)
 ![Docker](https://img.shields.io/badge/Docker-EAE0CF?style=for-the-badge&logo=docker&logoColor=213448)
 ![AWS](https://img.shields.io/badge/AWS-EAE0CF?style=for-the-badge&logo=amazonaws&logoColor=213448)
@@ -193,13 +217,64 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
   <tr>
     <td width="50%" valign="top">
       <h3>QA Engineer / Líder de QA</h3>
-      <p><strong>Novacomp, cliente Davivienda Bank Costa Rica</strong></p>
-      <p>Automatización QA con Playwright + TypeScript, CI/CD con GitHub Actions, validación de APIs REST y coordinación de pruebas sobre flujos bancarios críticos.</p>
+      <p><strong>Novacomp / Davivienda Bank Costa Rica · 2025 - 2026</strong></p>
+      <ul>
+        <li>Automatización QA para sistemas bancarios críticos con Playwright + TypeScript, Postman, AWS y GitHub Actions.</li>
+        <li>Reducción del ciclo de pruebas cerca de 40% con automatización en staging aislado.</li>
+        <li>Cobertura de flujos críticos: cajeros, créditos e hipotecas.</li>
+        <li>Dirección del equipo QA a los 7 meses y mejora de trazabilidad con Jira/Scrum.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Fullstack Developer</h3>
-      <p><strong>Freelance</strong></p>
-      <p>Aplicaciones React + TypeScript, APIs REST/GraphQL, integración con OpenAI/Claude, bases de datos SQL y soluciones para clientes en Costa Rica y Estados Unidos.</p>
+      <h3>Fullstack Developer Freelance</h3>
+      <p><strong>Proyectos independientes · 2023 - Presente</strong></p>
+      <ul>
+        <li>Software a medida para 10+ clientes en Costa Rica y Estados Unidos.</li>
+        <li>React + TypeScript con REST/GraphQL, TailwindCSS, Node.js y bases de datos SQL.</li>
+        <li>Integraciones con OpenAI API, Anthropic Claude SDK, RAG, function calling y embeddings.</li>
+        <li>Sistemas internos, dashboards, automatizaciones y productos administrativos.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Formación y Certificaciones
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Académico</h3>
+      <ul>
+        <li>Bachillerato en Ingeniería en Sistemas de Información.</li>
+        <li>Universidad Internacional de las Américas, 2021 - 2025.</li>
+        <li>Titulado y colegiado activo del CPIC.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>IA y especialización</h3>
+      <ul>
+        <li>IA 360: Ingeniería del Software Aumentada con IA.</li>
+        <li>Universidad CENFOTEC, 2026 - Presente.</li>
+        <li>Enfoque en SDLC con IA y desarrollo asistido por agentes.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Idiomas</h3>
+      <ul>
+        <li>Español nativo.</li>
+        <li>Inglés avanzado B2+.</li>
+        <li>Centro Cultural Costarricense Norteamericano.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Formación complementaria</h3>
+      <ul>
+        <li>TypeScript, React Hooks, MERN y Node.js.</li>
+        <li>NestJS, MySQL, Docker y DevOps.</li>
+        <li>Playwright, QA Automation y testing.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -225,7 +300,8 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aruhonshou.github.io-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aruhonshou.github.io%2FAru-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/portfolio.html)
+[![Aru Guide](https://img.shields.io/badge/Aru%20Guide-guia.html-547792?style=for-the-badge&logo=sparkfun&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/guia.html)
 [![GitHub](https://img.shields.io/badge/GitHub-AruHonshou-547792?style=for-the-badge&logo=github&logoColor=EAE0CF)](https://github.com/AruHonshou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kendall--valverde--diaz--aru-94B4C1?style=for-the-badge&logo=linkedin&logoColor=213448)](https://www.linkedin.com/in/kendall-valverde-diaz-aru/)
 [![Email](https://img.shields.io/badge/Email-kendallavd%40gmail.com-EAE0CF?style=for-the-badge&logo=gmail&logoColor=213448)](mailto:kendallavd@gmail.com)
@@ -234,6 +310,6 @@ Actualmente construyo proyectos open source enfocados en agentes inteligentes, R
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B4C1,45:547792,100:213448&height=120&section=footer" width="100%" alt="footer" />
 
-**Construyendo software fullstack, agentes con IA y herramientas de QA que convierten requerimientos en sistemas ejecutables.**
+**Construyendo software fullstack, IA aplicada y automatización QA con foco en producto.**
 
 </div>
