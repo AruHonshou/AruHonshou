@@ -6,7 +6,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Aru%20Interactive-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/portfolio.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Aru%20Interactive-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Portfolio/es/)
 [![Aru Guide](https://img.shields.io/badge/Aru%20Guide-Deep%20Profile-547792?style=for-the-badge&logo=sparkfun&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/guia.html)
 [![GitHub](https://img.shields.io/badge/GitHub-AruHonshou-547792?style=for-the-badge&logo=github&logoColor=EAE0CF)](https://github.com/AruHonshou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kendall%20Valverde-94B4C1?style=for-the-badge&logo=linkedin&logoColor=213448)](https://www.linkedin.com/in/kendall-valverde-diaz-aru/)
@@ -69,7 +69,7 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://aruhonshou.github.io/Aru/portfolio.html">Aru Assistant / Portfolio Interactivo</a></h3>
+      <h3><a href="https://aruhonshou.github.io/Portfolio/es/">Aru Assistant / Portfolio Interactivo</a></h3>
       <p>Portfolio interactivo con Aru como personaje protagonista: una asistente virtual anime/chibi que guía mi perfil profesional, proyectos, skills, experiencia, certificaciones y contacto.</p>
       <p>
         <img src="https://img.shields.io/badge/React-213448?style=flat-square&logo=react&logoColor=EAE0CF" />
@@ -300,7 +300,7 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aruhonshou.github.io%2FAru-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/portfolio.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aruhonshou.github.io%2FAru-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Portfolio/es/)
 [![Aru Guide](https://img.shields.io/badge/Aru%20Guide-guia.html-547792?style=for-the-badge&logo=sparkfun&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/guia.html)
 [![GitHub](https://img.shields.io/badge/GitHub-AruHonshou-547792?style=for-the-badge&logo=github&logoColor=EAE0CF)](https://github.com/AruHonshou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kendall--valverde--diaz--aru-94B4C1?style=for-the-badge&logo=linkedin&logoColor=213448)](https://www.linkedin.com/in/kendall-valverde-diaz-aru/)
