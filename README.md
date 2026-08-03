@@ -6,8 +6,8 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Aru%20Interactive-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Portfolio/es/)
-[![Aru Guide](https://img.shields.io/badge/Aru%20Guide-Deep%20Profile-547792?style=for-the-badge&logo=sparkfun&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/guia.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Aru%20Interactive-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/portfolio.html)
+[![Guía Asistente](https://img.shields.io/badge/Gu%C3%ADa%20Asistente-Deep%20Profile-547792?style=for-the-badge&logo=sparkfun&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/guia.html)
 [![GitHub](https://img.shields.io/badge/GitHub-AruHonshou-547792?style=for-the-badge&logo=github&logoColor=EAE0CF)](https://github.com/AruHonshou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kendall%20Valverde-94B4C1?style=for-the-badge&logo=linkedin&logoColor=213448)](https://www.linkedin.com/in/kendall-valverde-diaz-aru/)
 [![Email](https://img.shields.io/badge/Email-kendallavd%40gmail.com-EAE0CF?style=for-the-badge&logo=gmail&logoColor=213448)](mailto:kendallavd@gmail.com)
@@ -24,7 +24,7 @@ Soy Kendall Valverde Díaz, Software Engineer / Fullstack Engineer de Costa Rica
 
 He trabajado con React, TypeScript y Node.js en proyectos para clientes de Costa Rica y Estados Unidos. En Novacomp, para Davivienda Bank Costa Rica, lideré automatización QA con Playwright + TypeScript, integrando CI/CD y reduciendo el ciclo de pruebas alrededor de un 40%.
 
-Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automatización QA y experiencias web interactivas. Mi portfolio actual es **Aru**, una experiencia bilingüe con una asistente anime/chibi que presenta mi perfil, proyectos, skills, experiencia y contacto.
+Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automatización QA y experiencias web interactivas. Mi [portfolio principal](https://aruhonshou.github.io/Aru/portfolio.html) es **Aru**, una experiencia bilingüe con una asistente anime/chibi que presenta mi perfil, proyectos, skills, experiencia y contacto. La [guía-asistente](https://aruhonshou.github.io/Aru/guia.html) amplía la información sobre mí, mis proyectos y sus repositorios.
 
 <br />
 
@@ -69,7 +69,7 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://aruhonshou.github.io/Portfolio/es/">Aru Assistant / Portfolio Interactivo</a></h3>
+      <h3><a href="https://aruhonshou.github.io/Aru/portfolio.html">Aru Assistant / Portfolio Interactivo</a></h3>
       <p>Portfolio interactivo con Aru como personaje protagonista: una asistente virtual anime/chibi que guía mi perfil profesional, proyectos, skills, experiencia, certificaciones y contacto.</p>
       <p>
         <img src="https://img.shields.io/badge/React-213448?style=flat-square&logo=react&logoColor=EAE0CF" />
@@ -81,6 +81,23 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
         <li>Experiencia bilingüe ES/EN con navegación por secciones y guía local.</li>
         <li>Personaje Aru con expresiones, movimiento, burbujas contextuales y estética PNGTuber.</li>
         <li><a href="https://github.com/AruHonshou/Aru">Código fuente</a> | <a href="https://aruhonshou.github.io/Aru/guia.html">Aru lo explica mejor</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/AruHonshou/EousAgenteDocumentacion">Eous — Agente de Documentación</a></h3>
+      <p>Agente local que analiza repositorios y carpetas de software para generar documentación técnica profesional con revisión humana.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-213448?style=flat-square&logo=python&logoColor=EAE0CF" />
+        <img src="https://img.shields.io/badge/FastAPI-547792?style=flat-square&logo=fastapi&logoColor=EAE0CF" />
+        <img src="https://img.shields.io/badge/DeepSeek-94B4C1?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQLite-EAE0CF?style=flat-square&logo=sqlite&logoColor=213448" />
+      </p>
+      <ul>
+        <li>Recibe carpetas locales, archivos ZIP o repositorios de GitHub y crea snapshots seguros sin modificar ni ejecutar el proyecto analizado.</li>
+        <li>Extrae evidencia verificable, la indexa localmente y la sanea antes de enviarla a DeepSeek.</li>
+        <li>Permite revisar y aprobar el README generado para exportarlo a Markdown, Word y PDF.</li>
       </ul>
     </td>
   </tr>
@@ -300,8 +317,8 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aruhonshou.github.io%2FAru-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Portfolio/es/)
-[![Aru Guide](https://img.shields.io/badge/Aru%20Guide-guia.html-547792?style=for-the-badge&logo=sparkfun&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/guia.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aruhonshou.github.io%2FAru-213448?style=for-the-badge&logo=googlechrome&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/portfolio.html)
+[![Guía Asistente](https://img.shields.io/badge/Gu%C3%ADa%20Asistente-guia.html-547792?style=for-the-badge&logo=sparkfun&logoColor=EAE0CF)](https://aruhonshou.github.io/Aru/guia.html)
 [![GitHub](https://img.shields.io/badge/GitHub-AruHonshou-547792?style=for-the-badge&logo=github&logoColor=EAE0CF)](https://github.com/AruHonshou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kendall--valverde--diaz--aru-94B4C1?style=for-the-badge&logo=linkedin&logoColor=213448)](https://www.linkedin.com/in/kendall-valverde-diaz-aru/)
 [![Email](https://img.shields.io/badge/Email-kendallavd%40gmail.com-EAE0CF?style=for-the-badge&logo=gmail&logoColor=213448)](mailto:kendallavd@gmail.com)
