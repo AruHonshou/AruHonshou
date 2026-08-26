@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:213448,45:547792,100:94B4C1&height=230&section=header&text=Kendall%20Andr%C3%A9s%20Valverde%20D%C3%ADaz&fontColor=EAE0CF&fontSize=34&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI-Augmented%20Development%20%7C%20QA%20Automation&descAlignY=55&descSize=16)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=94B4C1&center=true&vCenter=true&width=780&lines=Fullstack+TypeScript+Engineer;AI+Agents+%2B+RAG+%2B+OpenAI+API;Playwright+QA+Automation+%2B+CI%2FCD;Local-first+tools+with+product+focus" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=94B4C1&center=true&vCenter=true&width=780&lines=Fullstack+TypeScript+Engineer;AI+Agents+%2B+LangGraph+%2B+RAG;Playwright+QA+Automation+%2B+CI%2FCD;Local-first+tools+with+product+focus" alt="Typing SVG" />
 
 <br />
 
@@ -24,7 +24,7 @@ Soy Kendall Valverde Díaz, Software Engineer / Fullstack Engineer de Costa Rica
 
 He trabajado con React, TypeScript y Node.js en proyectos para clientes de Costa Rica y Estados Unidos. En Novacomp, para Davivienda Bank Costa Rica, lideré automatización QA con Playwright + TypeScript, integrando CI/CD y reduciendo el ciclo de pruebas alrededor de un 40%.
 
-Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automatización QA y experiencias web interactivas. Mi [portfolio principal](https://aruhonshou.github.io/Aru/portfolio.html) es **Aru**, una experiencia bilingüe con una asistente anime/chibi que presenta mi perfil, proyectos, skills, experiencia y contacto. La [guía-asistente](https://aruhonshou.github.io/Aru/guia.html) amplía la información sobre mí, mis proyectos y sus repositorios.
+Actualmente construyo productos fullstack, orquestadores multiagente, sistemas RAG, automatización QA y experiencias web interactivas. Mi [portfolio principal](https://aruhonshou.github.io/Aru/portfolio.html) es **Aru**, una experiencia bilingüe con una asistente anime/chibi que presenta mi perfil, proyectos, skills, experiencia y contacto. La [guía-asistente](https://aruhonshou.github.io/Aru/guia.html) amplía la información sobre mí, mis proyectos y sus repositorios.
 
 <br />
 
@@ -57,8 +57,8 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
 
 ## Enfoque Actual
 
-- Agentes con IA generativa usando OpenAI API, RAG, embeddings y function calling.
-- Plataformas fullstack con React, TypeScript, Node.js, Express/NestJS y bases de datos SQL.
+- Agentes y orquestadores multiagente con LangGraph, OpenAI/DeepSeek, RAG y control humano.
+- Plataformas fullstack con React, TypeScript, Python, FastAPI, Node.js/NestJS y bases de datos SQL.
 - Automatización QA con Playwright, Postman, Jest, Vitest y pipelines CI/CD.
 - Infraestructura reproducible con Docker, GitHub Actions, Terraform y AWS.
 - Experiencias web interactivas con React, Vite, CSS3, GitHub Pages y enfoque de producto.
@@ -67,6 +67,23 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
 ## Proyectos Destacados
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/AruHonshou/AmeWork">AmeWork — Orquestador Multiagente para Búsqueda Laboral</a></h3>
+      <p>Aplicación local-first y bilingüe que descubre vacantes, compara cada oportunidad con experiencia profesional confirmada y prepara entrevistas con trazabilidad, sin inventar información ni postular automáticamente.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2019-213448?style=flat-square&logo=react&logoColor=EAE0CF" />
+        <img src="https://img.shields.io/badge/Three.js-547792?style=flat-square&logo=threedotjs&logoColor=EAE0CF" />
+        <img src="https://img.shields.io/badge/FastAPI-94B4C1?style=flat-square&logo=fastapi&logoColor=213448" />
+        <img src="https://img.shields.io/badge/LangGraph-EAE0CF?style=flat-square&logo=langchain&logoColor=213448" />
+      </p>
+      <ul>
+        <li>Orquesta cinco responsabilidades tipadas con LangGraph para coordinación, búsqueda, análisis, preparación y revisión.</li>
+        <li>Busca en múltiples fuentes, conserva la procedencia y explica fortalezas y brechas usando únicamente hechos confirmados del CV.</li>
+        <li>Protege datos y credenciales localmente, mantiene al usuario en control y genera guías de entrevista auditables en PDF.</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://aruhonshou.github.io/Aru/portfolio.html">Aru Assistant / Portfolio Interactivo</a></h3>
@@ -195,10 +212,13 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
 ![Vite](https://img.shields.io/badge/Vite-213448?style=for-the-badge&logo=vite&logoColor=EAE0CF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-213448?style=for-the-badge&logo=tailwindcss&logoColor=EAE0CF)
 ![Zustand](https://img.shields.io/badge/Zustand-213448?style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-213448?style=for-the-badge&logo=threedotjs&logoColor=EAE0CF)
 
 ### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-547792?style=for-the-badge&logo=nodedotjs&logoColor=EAE0CF)
+![Python](https://img.shields.io/badge/Python-547792?style=for-the-badge&logo=python&logoColor=EAE0CF)
+![FastAPI](https://img.shields.io/badge/FastAPI-547792?style=for-the-badge&logo=fastapi&logoColor=EAE0CF)
 ![Express](https://img.shields.io/badge/Express-547792?style=for-the-badge&logo=express&logoColor=EAE0CF)
 ![NestJS](https://img.shields.io/badge/NestJS-547792?style=for-the-badge&logo=nestjs&logoColor=EAE0CF)
 ![REST](https://img.shields.io/badge/REST%20APIs-547792?style=for-the-badge)
@@ -212,6 +232,8 @@ Actualmente construyo productos fullstack, agentes con IA, sistemas RAG, automat
 ![RAG](https://img.shields.io/badge/RAG-94B4C1?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-94B4C1?style=for-the-badge)
 ![Function Calling](https://img.shields.io/badge/Function%20Calling-94B4C1?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-94B4C1?style=for-the-badge&logo=langchain&logoColor=213448)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-94B4C1?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-94B4C1?style=for-the-badge&logo=playwright&logoColor=213448)
 ![Postman](https://img.shields.io/badge/Postman-94B4C1?style=for-the-badge&logo=postman&logoColor=213448)
 
